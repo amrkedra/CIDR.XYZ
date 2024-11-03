@@ -9,5 +9,7 @@ The app source code is all owned by https://github.com/yuvadm and dockerized by 
 you can simply run the site locally in a docker container by following:
 
 1- docker login
+
 2- docker run -d -p 3000:3000 amrkedra/cidr:v1 
+
 3- go to web browser and run http://localhost:3000
